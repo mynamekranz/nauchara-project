@@ -14,3 +14,7 @@ Scanner for read RFID Sticker
 Printer
 -------
 Printing sticker RFID command from BackEnd
+
+UAT
+---
+Pending
