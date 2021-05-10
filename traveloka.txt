@@ -1,0 +1,16 @@
+BackEnd
+-------
+1. Jam.PY
+2. PosgressSQL
+
+Android
+-------
+Native Apps with API connect to BackEnd
+
+Handheld
+--------
+Scanner for read RFID Sticker
+
+Printer
+-------
+Printing sticker RFID command from BackEnd
