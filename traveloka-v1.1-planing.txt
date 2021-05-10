@@ -1,0 +1,4 @@
+ANDROID TAMS v1.1
+---------------
+
+Read to server that can support multiple handheld
