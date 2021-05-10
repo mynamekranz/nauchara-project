@@ -18,3 +18,7 @@ Printing sticker RFID command from BackEnd
 UAT
 ---
 Pending
+
+TESTING
+-------
+Pending
